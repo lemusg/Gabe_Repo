@@ -1,3 +1,5 @@
+#Sebastian Dion
+
 def decode(password):
     decopass = ''
     for i in password:
